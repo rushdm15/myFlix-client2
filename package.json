@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/rushdm15/myFlix-client2/issues"
   },
-  "homepage": "https://github.com/rushdm15/myFlix-client2#readme"
+  "homepage": "https://github.com/rushdm15/myFlix-client2#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-rc.0"
+  }
 }
